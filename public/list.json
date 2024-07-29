@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name":"fashion book ",
+        "title":"these are story books they are really great to red",
+        "price":0,
+        "category":"Fashion",
+        "image":"https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+    },
+    {
+        "id":2,
+        "name":"Story Book ",
+        "title":"these are story books they are really great to red",
+        "price":23,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+    },
+    {
+        "id":3,
+        "name":"entertainment ",
+        "title":"these are story books they are really great to red",
+        "price":50,
+        "category":"entertainment",
+        "image":"https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+    },
+    {
+        "id":4,
+        "name":"Story Book ",
+        "title":"these are story books they are really great to red",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+    },
+    {
+        "id":5,
+        "name":"magazine ",
+        "title":"these are story books they are really great to red",
+        "price":49,
+        "category":"magazine",
+        "image":"https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+    },
+    {
+        "id":6,
+        "name":"Story Book ",
+        "title":"these are story books they are really great to red",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+    },
+    {
+        "id":7,
+        "name":"comedy ",
+        "title":"these are story books they are really great to red",
+        "price":145,
+        "category":"comedy",
+        "image":"https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+    },
+    {
+        "id":8,
+        "name":"songs ",
+        "title":"these are story books they are really great to red",
+        "price":0,
+        "category":"song",
+        "image":"https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+    },
+    {
+        "id":9,
+        "name":"music ",
+        "title":"these are story books they are really great to red",
+        "price":678,
+        "category":"music",
+        "image":"https://images.pexels.com/photos/4440123/pexels-photo-4440123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+    }
+    
+]
